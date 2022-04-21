@@ -1,4 +1,16 @@
 # Ray_Zhu_CSEcon206_Spring2022
+
+# Problem Set 2: Cooperative AI and the Future of Mechanism Design
+
+## Author: Ray Zhu
+
+## Class of 2022, Economics, Duke Kunshan Univesity
+
+ 
+## Disclaimer: Submissions to Problem Set 2 for COMPSCI/ECON 206 Computational Microeconomics, 2022 Spring Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+
+
+
 RQ1: What is cooperative AI? What do you see as the potential that computer science and economics can jointly contribute to advance cooperative AI
 
 Problems of cooperation--in which agents seek ways to jointly improve their welfare--are ubiquitous and important Dafoe et al (2020). As Dafoe et al. (2021) suggested, “to help humanity solve fundamental problems of cooperation, scientists need to reconceive artificial intelligence as deeply social” so that “machines” can “learn to find common ground”. Game theory is concerned with humans’ cooperation problems. But cooperative AI, making one step further, expands the consideration of AI and among AIs. It aims at perceiving different entities of AI as human beings and proposes some methods to help them cooperate toward a common goal and be consistent with humans’ goals and values. In a broad sense, I would say (and based on my understanding of Prof. Vince’s lecture), cooperative AI is not only the business between an AI and another, instead, but it also studies the interaction between human and human, AI and AI, and AI and humans. We can treat AI as humans, but we can also view humans as some kind of AI, can’t we? I think the combination of economics and computer science can definitely benefit the advancement of cooperative AI. First, I think many of the cooperative AI problems are built up upon game theory and relevant models. Game theory, of course, is listed as a branch of economics and mathematics. We may engage the ideas in economics, such as utility, marginal cost, and even concepts in behavioral economics to help analyze and solve the problems. However, as AI is built on top of computer science, we of course should introduce computer science knowledge to understand the difference between AI and human beings in traditional game theory. Besides, computer science gives us various tools to compute, simulate, and verify the results and validity of theoretical models.
