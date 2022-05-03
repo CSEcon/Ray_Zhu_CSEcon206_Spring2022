@@ -21,9 +21,13 @@ I would like to thank Prof. Luyao Zhang and her excellent lectures, templates, a
 
 ## Table of Contents
 >Problem Set 1()
+
 >Problem Set 2()
+
 >Code Assignment 1()
+
 >Code Assignment 2()
+
 >Final Project()
 
 
