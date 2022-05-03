@@ -2,13 +2,9 @@
 > *Disclaimer: Submissions to Problem Set 2 for [COMPSCI/ECON 206 Computational Microeconomics](https://ce.pubpub.org/), 2022 Spring Term (Seven Week - Second) instructed by [Prof. Luyao Zhang](http://scholars.duke.edu/person/luyao.zhang) at Duke Kunshan University.*
 
 
-## Author: Ray Zhu
+> Author: Ray Zhu
 
-## Class of 2022, Economics, Duke Kunshan Univesity
-
- 
-### Disclaimer: Submissions to Problem Set 2 for COMPSCI/ECON 206 Computational Microeconomics, 2022 Spring Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-
+> Class of 2022, Economics, Duke Kunshan Univesity
 
 ### RQ1: What is cooperative AI? What do you see as the potential that computer science and economics can jointly contribute to advance cooperative AI
 
