@@ -20,10 +20,10 @@ by Ray Zhu
 I would like to thank Prof. Luyao Zhang and her excellent lectures, templates, and skills shared throughout this course. You made my last course in college a wonderful experience! I also want to extend my appreciation to my friends and classmates, Lewis, Natalie, and Habib, who have together provided me constructive and sincere suggestions and/or support and made this class more interactive.
 
 ## Table of Contents
---Problem Set 1
---Problem Set 2
---Code Assignment 1
---Code Assignment 2
---Final Project
+>Problem Set 1()
+>Problem Set 2()
+>Code Assignment 1()
+>Code Assignment 2()
+>Final Project()
 
 
