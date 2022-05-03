@@ -8,6 +8,7 @@
 by Ray Zhu
 
 >[Headshot]
+<img src="https://user-images.githubusercontent.com/73629458/166410195-42cf20ae-b159-4d5c-bb68-29d28b4552df.JPG" alt="drawing" width="200"/>
 
 >[Self-Introduction] Ray Zhu is an ECON major at Duke Kunshan University and Duke University. He is passionate about investment, behavioral finance, and blockchain. He loves jogging, reading, cooking, traveling, and seafood. He will be joining Yale University as a graduate student this fall. As a global citizen, he feels obliged to embrace various challenges and seeks to blockchain innovation as one crucial solution. To share knowledge about fintech, economics, and blockchain and bridge the gap between academia and industry, Ray unified a global team from Duke and Duke Kunshan to interview pioneering scholars and entrepreneurs. By now, the team has interviewed 40+ distinguished professors and alumni from MIT, Stanford, Duke, NYU, Stanford, UMich, Zurich, and other top institutions. To share innovative ideas, Ray and his team published the interviews on social media so that all audience can enjoy the interdisciplinary debate in an open community.
 
