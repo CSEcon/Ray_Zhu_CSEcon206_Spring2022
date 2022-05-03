@@ -29,6 +29,6 @@ I would like to thank Prof. Luyao Zhang and her excellent lectures, templates, a
 
 >[Code Assignment 2](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/CodeAssignment2)
 
->Final Project(see below)
+>[Final Project](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/FinalProject)
 
 
