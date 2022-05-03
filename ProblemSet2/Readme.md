@@ -44,9 +44,15 @@ Second, I would advocate for blockchain in the case of a lack of information or 
 ### References
 
 Aumann, Robert J. 1985. “Repeated Games.” Issues in Contemporary Microeconomics and Welfare, 209–42. https://doi.org/10.1007/978-1-349-06876-0_5.
+
 Aziz, Haris. 2010. “Multiagent Systems.” ACM SIGACT News 41 (1): 34. https://doi.org/10.1145/1753171.1753181.
+
 Conitzer, Vincent. 2019. “Designing Preferences, Beliefs, and Identities for Artificial Intelligence.” Proceedings of the AAAI Conference on Artificial Intelligence 33 (July): 9755–59. https://doi.org/10.1609/aaai.v33i01.33019755.
+
 Dafoe, Allan, Yoram Bachrach, Gillian Hadfield, Eric Horvitz, Kate Larson, and Thore Graepel. 2021. “Cooperative AI: Machines Must Learn to Find Common Ground.” Nature 593 (7857): 33–36. https://doi.org/10.1038/d41586-021-01170-0.
+
 Dafoe, Allan, Edward Hughes, Yoram Bachrach, Tantum Collins, Kevin R. McKee, Joel Z. Leibo, Kate Larson, and Thore Graepel. 2020. “Open Problems in Cooperative AI.” ArXiv:2012.08630 [Cs], December. https://arxiv.org/abs/2012.08630.
+
 “Mechanism Design Theory.” n.d. Investopedia. Accessed April 22, 2022. https://www.investopedia.com/terms/m/mechanism-design-theory.asp#:~:text=Mechanism%20design%20takes%20private%20information.
+
 “The Gibbard-Satterthwaite Impossibility Theorem.” 2014. Game Theory and Mechanism Design, March, 249–65. https://doi.org/10.1142/9789814525053_0017.
