@@ -16,19 +16,18 @@ by Ray Zhu
 
 >[GitHub](https://github.com/Ray88888888)
 
+>[Twitter](@RayyZhu)
+
 
 ## Acknowledgments
 I would like to thank Prof. Luyao Zhang and her excellent lectures, templates, and skills shared throughout this course. You made my last course in college a wonderful experience! I also want to extend my appreciation to my friends and classmates, Lewis, Natalie, and Habib, who have together provided me constructive and sincere suggestions and/or support and made this class more interactive.
 
 ## Table of Contents
->[Problem Set 1](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/ProblemSet1)
 
->[Problem Set 2](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/ProblemSet2)
-
->[Code Assignment 1](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/CodeAssignment1)
-
->[Code Assignment 2](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/CodeAssignment2)
-
->[Final Project](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/FinalProject)
-
-
+| Item        | Timeline    |  Description| 
+| ----------- | ----------- | ----------- | 
+| [Code Assignment 1](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/CodeAssignment1) | Week 2 |Computational Pipline|
+| [Problem Set 1](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/ProblemSet1) | Week 3 |A General Introduction to Game Theory: A Dichotomy Approach|
+| [Code Assignment 2](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/CodeAssignment2) | Week 4 |Algorithmic Game Theory|
+| [Problem Set 2](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/ProblemSet2) | Week 5 |Cooperative AI and the Future of Mechanism Design|
+| [Final Project](https://github.com/CSEcon/Ray_Zhu_CSEcon206_Spring2022/tree/main/FinalProject) | Week 6-7 |The Future of Computional Microeconomics: Comments for "Voting Process with Blockchain Technology: Auditable Blockchain Voting System"|
