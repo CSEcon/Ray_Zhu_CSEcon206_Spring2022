@@ -73,14 +73,15 @@ Type here
 ### References in BibTex
 ```
 
-
-
-
-
-
-
-
-
 ```
 
+## Part**: Peer Comment & Feedback
+I thoroughly enjoyed Ray’s Final Project draft. I would like to provide him with comments on the parts that I found inspiring and the parts that I think he could still improve.
+Good
+Ray takes his time to slowly develop the ideas found in the research paper. The writing is clear and concise. The ideas are well-formulated without irrelevant parts. For example, the Methods section succinctly describes Always On Voting and its three key features.
+Areas for improvement
+Some parts of the first draft are verbatim taken from the research paper. Ray could either paraphrase those sections or cite them. I would advise that he paraphrases as that will demonstrate his mastery of the material.
+Some terms, such as peak-end effect in Intellectual Merits and the EA in Practical Impacts, are new but undefined. Ray could refer to other sources that define these terms and use those definitions for better clarity. Of course, the sources should be cited as well.
+Unfortunately, I do not see Parts II and III in the GitHub repository, which makes my feedback limited because there is not enough information to work with. I hope that Ray finds the time to finish all of the Parts on time. I am happy to help him further outside of the school deadlines if he wishes.
+All in all, I am glad that I got to review Ray’s work. And since this is the last assignment, I must say that I am glad to have met him through CS/ECON 206 too! Perhaps Professor is most to thank for that :slightly_smiling_face:
 
