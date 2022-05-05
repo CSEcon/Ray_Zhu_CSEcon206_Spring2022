@@ -67,20 +67,77 @@ The second limitation is that the capacity of AoV is limited given the complexit
 ## Part III: Inspirations
 
 ### 1. Interdisciplinary Research
-
+I think we can test the usefulness, efficiency, and reliability of the AoV framework's application in voting from different perspectives using interdisciplinary approaches. First, we can test it through a computational microeconomics perspective. We can programm all voting environments and agents, and simulates a scenario (and maybe reinforcement learning) to test whether it is workable, how it works, and where could be improved. Second, from the perspective of data science, we can look for possible data sources online or collect it manully or crawl it automatically depending on the data types and sources. Then, we can do statisctial testing, data analysis, visualization with the data we have and draw observations about voting. Last but not least, we can design lab experiment as economists would do. This methodology can form comparisons and also show us the pros and cons of AoV voting with more nuances available.
 
 ### 2. Research for Real-world Practices
+In the future, we can find two political units in adjacent, say, two cities next to each other with the similar economics, population, and cultural factors. With one of them piloting in using the AoV framework, the other city uses the tradiational voting scheme to vote for a mayor. We may regard this as a natural experiment and collect relevant data based on this. Through the comparison between these two cities voting and its outcomes, we may conclude more about the advantages and disadvantages of the AoV framework.
 
-Type here
 ### 3. Future Professional Growth
-Type here
+We have seen lots of examples about interactions between economics and computer science and I am so convinced by the tremendous potential it has. On one hand, computer science facilitates computing, setting up structures, connecting people from different locations, tranform great ideas into realities, and provide tools and platforms for economists to implement sophisticated economic and mechanism design. On the other hand, economics brings values, meanings, and application scenarios to computer science, and make the system more vivid and have commercial values. Looking into the future, I believe people like us, with visions in both economics and computer science, will lead in innovation by adopting the merits of both disciplines.
 
 ### References
-Type here
+Blum, Christian, and Christina Isabel Zuber. 2015. “Liquid Democracy: Potentials, Problems, and Perspectives.” Journal of Political Philosophy 24 (2): 162–82. https://doi.org/10.1111/jopp.12065.Frankenfield.
+
+Jake. 2019. “Consensus Mechanism (Cryptocurrency).” Investopedia. 2019. https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp.Kahneman.
+
+Daniel, Barbara L. Fredrickson, Charles A. Schreiber, and Donald A. Redelmeier. 1993. “When More Pain Is Preferred to Less: Adding a Better End.” Psychological Science 4 (6): 401–5. https://doi.org/10.1111/j.1467-9280.1993.tb00589.x.
+
+“Tally (Voting).” 2022. Wikipedia. April 11, 2022. https://en.wikipedia.org/wiki/Tally_(voting)#:~:text=A%20tally%20(also%20see%20tally.
+
+Venugopalan, Sarad, and Ivan Homoliak. 2021. “Always on Voting: A Framework for Repetitive Voting on the Blockchain.” ArXiv:2107.10571 [Cs], July. https://arxiv.org/abs/2107.10571.
 
 ### References in BibTex
 ```
+@article{venugopalan_2021_always,
+  author = {Venugopalan, Sarad and Homoliak, Ivan},
+  month = {07},
+  title = {Always on Voting: A Framework for Repetitive Voting on the Blockchain},
+  url = {https://arxiv.org/abs/2107.10571},
+  year = {2021},
+  journal = {arXiv:2107.10571 [cs]}
+}
 
+@article{blum_2015_liquid,
+  author = {Blum, Christian and Zuber, Christina Isabel},
+  month = {07},
+  pages = {162-182},
+  title = {Liquid Democracy: Potentials, Problems, and Perspectives},
+  doi = {10.1111/jopp.12065},
+  url = {https://kops.uni-konstanz.de/bitstream/handle/123456789/31936/Blum_2-124tcdzkw7jqj0.pdf?sequence=1&isAllowed=y},
+  urldate = {2020-04-22},
+  volume = {24},
+  year = {2015},
+  journal = {Journal of Political Philosophy}
+}
+
+@misc{frankenfield_2019_consensus,
+  author = {Frankenfield, Jake},
+  title = {Consensus Mechanism (Cryptocurrency)},
+  url = {https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp},
+  year = {2019},
+  organization = {Investopedia}
+}
+
+@misc{a2022_tally,
+  month = {04},
+  title = {Tally (voting)},
+  url = {https://en.wikipedia.org/wiki/Tally_(voting)#:~:text=A%20tally%20(also%20see%20tally},
+  urldate = {2022-05-05},
+  year = {2022},
+  organization = {Wikipedia}
+}
+
+@article{kahneman_1993_when,
+  author = {Kahneman, Daniel and Fredrickson, Barbara L. and Schreiber, Charles A. and Redelmeier, Donald A.},
+  month = {11},
+  pages = {401-405},
+  title = {When More Pain Is Preferred to Less: Adding a Better End},
+  doi = {10.1111/j.1467-9280.1993.tb00589.x},
+  urldate = {2020-02-29},
+  volume = {4},
+  year = {1993},
+  journal = {Psychological Science}
+}
 ```
 
 ### Glossary Table
