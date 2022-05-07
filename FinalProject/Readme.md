@@ -26,7 +26,15 @@ Elections are frequently held over longer and set time intervals, ranging from m
 
 ### 2. Research Question
 
-Can we overcome the problems of traditional voting by adopting the deisgn of a repetitive blockchain-based voting mechanism？
+Can we overcome the problems of traditional voting, including the peak-end effect, censorship, data manipulation, and behavioral anomalies, by adopting the deisgn of a repetitive blockchain-based voting mechanism？
+
+>The peak-end effect: The peak-end effect is the phenomena that people vote according to their impression on the candidates a short time before voting instead of carefully measuring the overall performance of the candidates over a long term (Venugopalan and Homoliak 2021). People may regret for their votes due to the peak-end effect but have no way to change the vote until the next election in the traditional voting framework.
+
+>Censorship/centralization/data manipulation: For voting that is organized by a centralized institution, it might engage censorship and even render manipulation. We cannot ensure everyone's vote is properly shown in the result.
+
+>Behavioral anomalies: When people make decisions, their rationality could be limited due to different factors or envioronment; in other words, people are not and cannot be completely rational all the time. This is called "bounded rationality"(Sent 2018). In voting, similarly, we cannot assume people are always making rational decisions. Substantial rationality is defined as a "a form of rationality that considers the value of an action"(Jeanes 2019). According to Jeanes (2019), "Something can be considered substantively rational if the consequences of the actions are considered desirable by the social actor and actions are selected, measured, and judged by these values". However, opposite to substantial rationality, another concept, procedural rationality, refers to the "rationality of the processes used in arriving at a decision, as opposed to the rationality of the decision itself"(N. 2013). We should be cautious about different types of rationality as they are sophisticated and sensative. Maybe a blockchain-based voting design like such could help us nevigate through.
+
+
 
 ### 3. Methods
 
