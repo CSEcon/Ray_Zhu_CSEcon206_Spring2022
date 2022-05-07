@@ -43,6 +43,8 @@ This paper investigated at the political science research that led to an enginee
 To ensure security and cut costs, AoW makes use of a public permissioned blockchain. Participants' wallet privacy was achieved by syncing their wallet addresses with the EA in such a way that no third-party observer could map a future participant's wallet address to a previous or present one (Venugopalan and Homoliak 2021). Finally, they proposed a supermajority need to elicit a modification that reflects the present election outcome, which helps to keep the existing system stable.
 
 ## Part II: Critics 
+![Support process example](https://user-images.githubusercontent.com/73629458/166884896-4de39cfb-9081-4207-9764-169b28f9b23d.png)
+Figure 1. Critics from two perspectives
 
 ### 1. Economics for Computer Science: Incentives in Computer Science
 
